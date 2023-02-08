@@ -21,7 +21,9 @@ PHP and MySQL article website part is completed, webscrapper that will supply th
 ## jQuery webscraper part:
     1.Built a function to scrape website data using jQuery and AJAX
     2.Created a loop to scrape data from multiple pages of the website
+    
   To do:
+  
     1.Parse the scraped data to extract relevant information such as article titles, dates and content
     2.Store the extracted information in a JSON object
     3.Send the JSON data to the PHP script using AJAX
